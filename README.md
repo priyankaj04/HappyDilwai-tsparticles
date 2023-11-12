@@ -12,4 +12,4 @@ React-particles is a library for React applications that allows you to easily ad
 
 React-particles is built on top of the popular particle.js library, which provides a wide range of customization options for creating unique and engaging particle effects.
 
- ** Thankyou! **
+ **Thankyou!**
