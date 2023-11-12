@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+}
+
+.diwalitext{
+    animation: scaleUp 3s;
+}
+
+.wishingtext {
+    animation: scaleUp 5s;
+}
+
+@keyframes scaleUp {
+    from {
+        transform: scale(0);
+    }
+
+    to {
+        transform: scale(1);
+    }
+}
